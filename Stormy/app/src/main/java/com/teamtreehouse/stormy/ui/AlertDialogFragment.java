@@ -1,10 +1,12 @@
-package com.teamtreehouse.stormy;
+package com.teamtreehouse.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.teamtreehouse.stormy.R;
 
 /**
  * Created by Xand on 3/20/2016.
